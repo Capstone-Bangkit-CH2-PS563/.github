@@ -18,7 +18,7 @@ Food Accessibility, Agribusiness, and Food Security
 ## About Nutriplant
  <p>Vegetables are an essential part of a healthy diet, but the challenge of understanding their nutritional and health values often poses a hurdle. The Vegetable Nutrition Scanner emerges as an innovative solution, aiding users in swiftly accessing information on vegetable nutrition, health benefits, and serving suggestions. Many individuals struggle to ascertain the nutritional value and health benefits of the vegetables they consume daily. This information gap can impede efforts to adopt a healthy lifestyle. How can we facilitate easier and quicker access to nutritional information and the health benefits of vegetables for the general public? Vegetable Nutrition Scanner employs advanced scanning technology to identify vegetables and deliver real-time nutritional information and health benefits. The application utilizes artificial intelligence to recognize various types of vegetables and present pertinent information within seconds. With Vegetable Nutrition Scanner, is to empower users to make informed dietary choices and enhance their overall quality of life. By providing nutritional information and health benefits of vegetables in a swift and accessible manner, Vegetable Nutrition Scanner represents an innovative stride toward a healthier and more nutritionally aware society.<p/>
 
-##Features
+## Features
 <p>Scan the vegetable you have with the phone camera or upload the image file. The application will process the image to informative facts about the vegetables, such as benefits from the vegetable and the amounts of calories per 100 grams.
 </p>
 

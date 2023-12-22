@@ -7,7 +7,7 @@ Hi everyone This is Nutriplant! We are from CH2-PS563. We consist of 6 people an
 | M258BSX1386 | Nurul Maudy Fadillah          | Machine Learning    | Universitas Muhammadiyah Malang              | <a href="https://www.linkedin.com/in/nurul-maudy-fadillah-661ba2221/">Linkedin</a> |
 | M258BSX0170 | Pelangi Cita Indah | Machine Learning    | Universitas Muhammadiyah Malang | <a href="https://www.linkedin.com/in/pelangicitaindah/">Linkedin</a> |
 | M006BSX1099 | Khoirun Nisa'        | Machine Learning    | Universitas Brawijaya | <a href="https://www.linkedin.com/in/khoirun-nisa-70909b260/">Linkedin</a> |
-| A006BSY2903 | Mohamad Syauqi Zulfan Azis | Mobile development  | Universitas Brawijaya              | <a href="https://www.linkedin.com/search/results/all/?keywords=mohamad%20syauqi%20zulfan%20azis&origin=TYPEAHEAD_HISTORY&searchId=7e3ecddd-5106-4e92-9bd5-be3753c7f1c2&sid=Uu-&spellCorrectionEnabled=true">Linkedin</a> |
+| A006BSY2903 | Mohamad Syauqi Zulfan Azis | Mobile development  | Universitas Brawijaya              | <a href="https://www.linkedin.com/in/syauqi-azis/">Linkedin</a> |
 | C258BSY4327 | Moh. Ainur Bahtiar Rohman | Cloud Computing     | Universitas Muhammadiyah Malang              | <a href="https://www.linkedin.com/in/moh-ainur-bahtiar-rohman-a1333b1b3/">Linkedin</a> |
 | C006BSY3658 | Alexander Gunawan  | Cloud Computing     | Universitas Brawijaya              | <a href="https://www.linkedin.com/in/alexander-gunawan-411634234/">Linkedin</a> |
 

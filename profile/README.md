@@ -22,3 +22,6 @@ Food Accessibility, Agribusiness, and Food Security
 <p>Scan the vegetable you have with the phone camera or upload the image file. The application will process the image to informative facts about the vegetables, such as benefits from the vegetable and the amounts of calories per 100 grams.
 </p>
 
+## Cloud Computing API Documentation
+You can see the documentation of API with the link: https://documenter.getpostman.com/view/31612016/2s9Ykq8LuB 
+
